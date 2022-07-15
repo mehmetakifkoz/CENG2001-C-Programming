@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <conio.h>
 
 int main()
 {
@@ -22,8 +21,6 @@ int main()
         printf("Warning: Invalid value for outer width. It must be an odd number.\n");
 
         printf("\nPress any key to continue.");
-        getch();
-        // Some devices close the program immediately after running it. getch(); is used to prevent this.
 
         exit(1);
         // Error code 1
@@ -37,10 +34,6 @@ int main()
     if (innerWidth % 2 == 0) // If the variable innerWidth is even:
     {
         printf("Warning: Invalid value for inner width. It must be an odd number.\n");
-
-        printf("\nPress any key to continue.");
-        getch();
-        // Some devices close the program immediately after running it. getch(); is used to prevent this.
 
         exit(2);
         // Error code 2
@@ -89,8 +82,6 @@ int main()
     }
 
     printf("Press any key to continue.");
-    getch();
-    // Some devices close the program immediately after running it. getch(); is used to prevent this.
 
     return 0;
     // The program is executed successfully.
