@@ -1,0 +1,10 @@
+15	-> min: 1, average: 3.0
+1289	-> min: 1, average: 5.0
+111111	-> min: 1, average: 1.0
+101	-> min: 0, average: 0.7
+26812	-> min: 1, average: 3.8
+56	-> min: 5, average: 5.5
+48881	-> min: 1, average: 5.8
+22222222	-> min: 2, average: 2.0
+321456798	-> min: 1, average: 5.0
+9	-> min: 9, average: 9.0
