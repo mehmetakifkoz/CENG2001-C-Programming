@@ -1,1 +1,1 @@
-This program does not work properly.
+Warning: This program does not work properly.
